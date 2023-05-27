@@ -9,23 +9,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+I just completed three semesters at a local community college learning front end web development. I am here now to practice and expand on what I have learned.
 
 ### Screenshot
 
 ![image](screenshot.png)
-![alt text](http://url/to/img.png)
-
-
-
 
 ### Links
 
@@ -38,12 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-
-### What I learned
-
-I just completed three semesters at a local community college learning front end web development. I am here now to practice and expand on what I have learned.
-
 
 ## Author
 
